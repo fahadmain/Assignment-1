@@ -290,7 +290,6 @@ body {
     height: 460px;
     margin: 0 auto;
     margin-top: 151px;
-    border: 2px solid red;
 }
 
 .my-target-container h3 {
@@ -440,7 +439,6 @@ body {
 .i-need-support-container {
     width: 1140px;
     height: 313px;
-    border: 2px solid red;
     padding: 64px 48px 64px 48px;
     margin-top: 80px;
     margin-left: 190px;
@@ -460,6 +458,7 @@ body {
     font-weight: 700;
     text-align: center;
 }
+
 
 .i-need-support-container p {
     color: rgb(255, 255, 255);
