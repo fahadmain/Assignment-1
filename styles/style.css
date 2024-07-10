@@ -59,3 +59,138 @@ body {
     width: 150px;
     height: 46px;
 }
+
+/* why web development style starts here  */
+
+.why-web-container {
+    width: 1140px;
+    height: 1393px;
+    margin: 0 auto;
+    margin-top: 154px;
+    border: 2px solid red;
+    padding: 80px 97px 80px 97px;
+}
+
+.why-web-container h3 {
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.why-web-container p {
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 13px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.why-deb-content {
+    width: 946px;
+    height: 336px;
+    margin: 0 auto;
+    margin-top: 48px;
+    padding: 48px;
+    display: flex;
+
+}
+
+.i-will-do {
+    width: 477px;
+    height: 220px;
+}
+
+.i-will-do h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.i-will-do p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.i-will-do button {
+    width: 130px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 34px;
+}
+
+.i-will-do-2 {
+    width: 274.17px;
+    height: 240px;
+    margin-left: 98px;
+    padding: 3.77px 13.66px 19.22px 0.94px;
+}
+
+.why-deb-content-2 {
+    width: 946px;
+    height: 336px;
+    margin-top: 32px;
+    padding: 48px;
+    display: flex;
+
+}
+
+.i-will-help {
+    width: 240px;
+    height: 240px;
+    padding: 0px 16.18px 31.15px 0px;
+}
+
+.i-will-help-2 {
+    width: 477px;
+    height: 219px;
+    margin-left: 48.8px;
+    margin-top: 12px;
+}
+
+.i-will-help-2 h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.i-will-help-2 p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 28px;
+}
+.i-will-help-2 button {
+    width: 130px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 34px;
+}
