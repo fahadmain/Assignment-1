@@ -479,6 +479,7 @@ body {
     border-radius: 8px;
     background: rgb(255, 255, 255);
 }
+
 .i-need-support-container button {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -490,7 +491,28 @@ body {
     width: 120px;
     height: 57px;
 }
+
 .i-need-support-container div {
     margin-left: 180px;
     margin-top: 40px;
+}
+
+/* footer styles */
+
+.footer-container {
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 32px 150px 32px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content-1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
 }
