@@ -315,6 +315,9 @@ body {
     margin-top: 48px;
     display: flex;
     gap: 22px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .html {
