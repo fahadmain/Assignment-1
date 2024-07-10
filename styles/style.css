@@ -280,5 +280,153 @@ body {
     align-self: stretch;
     margin-top: 80px;
     margin-left: 30px;
-    
+
+}
+
+/* my current target section styles  */
+
+.my-target-container {
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 151px;
+}
+
+.my-target-container h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.my-target-container p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.my-target-content {
+    width: 1140px;
+    height: 299px;
+    margin-top: 48px;
+    display: flex;
+    gap: 22px;
+}
+
+.html {
+    width: 364px;
+    height: 299px;
+    padding: 40px;
+}
+
+.html h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+    margin-top: 24px;
+}
+
+.html p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.html button a {
+    width: 284px;
+    height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.html button {
+    margin-top: 24px;
+}
+
+.css {
+    width: 364px;
+    height: 299px;
+    padding: 40px;
+}
+
+.css h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+    margin-top: 24px;
+}
+
+.css p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.css button a {
+    width: 284px;
+    height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.css button {
+    margin-top: 24px;
+}
+
+.javascript {
+    width: 364px;
+    height: 299px;
+    padding: 40px;
+}
+
+.javascript h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+    margin-top: 24px;
+}
+
+.javascript p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.javascript button a {
+    width: 284px;
+    height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.javascript button {
+    margin-top: 24px;
 }
