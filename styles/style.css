@@ -516,3 +516,8 @@ body {
     font-weight: 600;
     text-align: center;
 }
+.footer-content-2 ul {
+    display: flex;
+    gap: 20px;
+
+}
